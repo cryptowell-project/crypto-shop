@@ -1,6 +1,6 @@
 # CryptoWell.Shop Project#
 
-CryptoWell.Shop is rich and interactive crypto oriented platform for e-commerce, Investment, Crypto activities and learning platform.
+CryptoWell.Shop is rich and interactive crypto oriented platform for e-commerce, Investment, Crypto activities and learning.
 
 ## Key things to achieve with CryptoWell.Shop
 1. Learn: Become cryptocurrency mastermind
