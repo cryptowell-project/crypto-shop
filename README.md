@@ -1,4 +1,4 @@
-# CryptoWell.Shop Project#
+# CryptoWell.Shop Project
 
 CryptoWell.Shop is rich and interactive crypto oriented platform for e-commerce, Investment, Crypto activities and learning.
 
@@ -8,5 +8,5 @@ CryptoWell.Shop is rich and interactive crypto oriented platform for e-commerce,
 3. Spend: CryptoWell.Shop is for everyday life designed to empower you to pay with crypto for everything. Making you currency neutral.
 
 # Joining the project
-You are welcome to join to build a free world for all. Currency neutral is posible, the wheel is build then lets move to the future.
+You are welcome to join to build a free world for all. Currency neutral is posible, the wheel is built then lets move to the future.
 The project just started and we are hunting for talents, to join us visit https://cryptowell.shop or email us 1team@cryptowell.shop
